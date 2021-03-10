@@ -4,9 +4,9 @@
 <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 
 ## Framework
-* Spring 2.4.1
+* Spring Boot 2.4.1
 * JPA Hibernate
-* Test : Junit 4
+* Test : Junit4
 * database : h2 (1.99)
 
 
