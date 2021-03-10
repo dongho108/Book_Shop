@@ -4,15 +4,15 @@
 <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
 
 ## Framework
-Spring 2.4.1
-JPA Hibernate
-Test : Junit 4
-database : h2 (1.99)
+* Spring 2.4.1
+* JPA Hibernate
+* Test : Junit 4
+* database : h2 (1.99)
 
 
 ## Built With
 
-* [api_dev]
+[api_dev]
 * github : (https://github.com/dongho108)
 * blog : (https://ksabs.tistory.com)
 
