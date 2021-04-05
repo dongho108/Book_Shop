@@ -10,6 +10,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import javax.persistence.EntityManager;
 
+
 @RunWith(SpringRunner.class)
 @SpringBootTest
 public class ItemUpdateTest {
@@ -18,7 +19,7 @@ public class ItemUpdateTest {
     EntityManager em;
 
     @Test
-    public void updateTest() throw Exception {
+    public void updateTest() throws Exception {
         Book book = em.find(Book.class, 1L);
 
         //TX
